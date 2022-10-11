@@ -1,0 +1,10 @@
+name: dart_number_lists_benchmark
+description: Dart number lists benchmark
+version: 0.0.1
+homepage: https://github.com/gyrdym/dart_number_lists_benchmarks
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  benchmark_harness: ^2.0.0
